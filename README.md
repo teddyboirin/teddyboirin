@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teddyboirin, I am 25 and I am  from Paris !
-- 👀 I’m interested in Front-end development with Next JS and app mobile with React Native
+- 👀 I’m interested in Front-end development with Next JS & TypeScript and app mobile with React Native
 - 🌱 I’m currently learning Next JS with performance best practices
 - 💞️ I’m actually working at [AGUA BLANCA](https://aguablanca.co)
 
